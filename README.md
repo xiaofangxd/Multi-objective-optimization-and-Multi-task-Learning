@@ -1,7 +1,7 @@
 # A Collection of Main Papers on Gradient-based-Multi-objective-optimization-and-Deep-Learning
 
 
-# Algorithms
+## Algorithms
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -22,7 +22,7 @@
 | 15. A Two-Stage Neural-Filter Pareto Front Extractor and the need for Benchmarking | ICLR_Reject  | 2022 | _Gupta st al._  | [[paper](https://openreview.net/forum?id=UOj0MV__Cr)] [[open](https://openreview.net/forum?id=UOj0MV__Cr)] |    |
 
 
-# Applications
+## Applications
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. A pareto-efficient algorithm for multiple objective optimization in e-commerce recommendation| RecSys | 2019 | _Lin st al._  | [[paper](https://dl.acm.org/doi/abs/10.1145/3298689.3346998)] |      |
