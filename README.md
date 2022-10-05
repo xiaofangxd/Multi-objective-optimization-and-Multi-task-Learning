@@ -15,7 +15,7 @@
 | 10. Self-Evolutionary Optimization for Pareto Front Learning | arxiv   | 2021 | _Chang st al._  | [[paper](https://arxiv.org/pdf/2110.03461.pdf)] |                                                              |
 | 11. Pareto Navigation Gradient Descent: a First-Order Algorithm for Optimization in Pareto Set | UAI  | 2022 | _Ye st al._  | [[paper](https://proceedings.mlr.press/v180/ye22a.html)] [[code](https://github.com/lushleaf/ParetoNaviGrad)] |  |
 
-| 12. A Multi-objective / Multi-task Learning Framework Induced by Pareto Stationarity | ICML  | 2022 | _Momma st al._  | [[paper](https://proceedings.mlr.press/v162/momma22a.html)]  | |
+| 12. A Multi-objective Multi-task Learning Framework Induced by Pareto Stationarity | ICML  | 2022 | _Momma st al._  | [[paper](https://proceedings.mlr.press/v162/momma22a.html)]  |  |
 
 | 13. Generalization In Multi-Objective Machine Learning | arxiv  | 2022 | _Súkeník st al._  | [[paper](https://arxiv.org/pdf/2208.13499.pdf)]  ||
 
