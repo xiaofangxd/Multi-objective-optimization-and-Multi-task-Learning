@@ -20,8 +20,11 @@
 | 13. Generalization In Multi-Objective Machine Learning | arxiv  | 2022 | _Súkeník st al._  | [[paper](https://arxiv.org/pdf/2208.13499.pdf)]  |      |
 | 14. Multi-objective Optimization by Learning Space Partition | ICLR  | 2022 | _Zhao st al._  | [[paper](https://openreview.net/forum?id=FlwzVjfMryn)] [[open](https://openreview.net/forum?id=FlwzVjfMryn)]  |    |
 | 15. A Two-Stage Neural-Filter Pareto Front Extractor and the need for Benchmarking | ICLR_Reject  | 2022 | _Gupta st al._  | [[paper](https://openreview.net/forum?id=UOj0MV__Cr)] [[open](https://openreview.net/forum?id=UOj0MV__Cr)] |    |
-
-
+| 16. Improving Pareto Front Learning via Multi-Sample Hypernetworks | AAAI  | 2023 | _Hoang st al._  | [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25953)] |    |
+| 17. A Framework for Controllable Pareto Front Learning with Completed Scalarization Functions and its Applications | arxiv | 2023 | _Tuan st al._  | [[paper](https://arxiv.org/abs/2302.12487)] |    |
+| 18. Pareto Manifold Learning: Tackling multiple tasks via ensembles of single-task models | ICML  | 2023 | _Dimitriadis st al._  | [[paper](https://proceedings.mlr.press/v202/dimitriadis23a.html)] [[code](https://github.com/nik-dim/pamal)] |   |
+ | 19. Multi-objective Learning Using HV Maximization | EMO  | 2023 | _Deist st al._  | [[paper](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_8)] [[code](https://github.com/timodeist/multi_objective_learning)] |    |
+ 
 ## Applications
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -35,6 +38,7 @@
 | 8. On Multi-objective Policy Optimization as a Tool for Reinforcement Learning: Case Studies in Offline RL and Finetuning| ICLR_Reject  | 2022 | _Abdolmaleki st al._  | [[paper](https://openreview.net/forum?id=bilHNPhT6-)] [[open](https://openreview.net/forum?id=bilHNPhT6-)] |   |
 | 9. Multi-Objective Model Selection for Time Series Forecasting | ICLR_Reject  | 2022 | _Borchert st al._  | [[paper](https://openreview.net/forum?id=4XtpgPsvxE8)] [[open](https://openreview.net/forum?id=4XtpgPsvxE8)] |      |
 | 10. Multi-Objective Meta Learning |  NIPS | 2022 | _Ye st al._  | [[paper](https://openreview.net/forum?id=wKf9iSu_TEm)] [[open](https://openreview.net/forum?id=wKf9iSu_TEm)] [[code](https://github.com/Baijiong-Lin/MOML)]|    |
+| 11. On the Pareto Front of Multilingual Neural Machine Translation |  arxiv | 2023 | _Chen st al._  | [[paper](https://arxiv.org/abs/2304.03216)] [[code](https://github.com/chenllliang/ParetoMNMT)]|    |
 
 
 **Disclaimer**
