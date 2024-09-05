@@ -24,6 +24,8 @@
 | 17. A Framework for Controllable Pareto Front Learning with Completed Scalarization Functions and its Applications | arxiv | 2023 | _Tuan st al._  | [[paper](https://arxiv.org/abs/2302.12487)] |    |
 | 18. Pareto Manifold Learning: Tackling multiple tasks via ensembles of single-task models | ICML  | 2023 | _Dimitriadis st al._  | [[paper](https://proceedings.mlr.press/v202/dimitriadis23a.html)] [[code](https://github.com/nik-dim/pamal)] |   |
  | 19. Multi-objective Learning Using HV Maximization | EMO  | 2023 | _Deist st al._  | [[paper](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_8)] [[code](https://github.com/timodeist/multi_objective_learning)] |    |
+ | 20. LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch |   | 2024 | _Zhang st al._  | [[code](https://github.com/xzhang2523/libmoon)] |    |
+ 
  
 ## Applications
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
